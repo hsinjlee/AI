@@ -1,1 +1,3 @@
-# AI
+# Artificial Intelligence
+
+## Q-Learning
