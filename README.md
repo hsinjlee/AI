@@ -8,4 +8,8 @@
 
 ## Asynchronous Advantage Actor-Critic (A3C)
 
+## Soft Actor-Critic (SAC)
+
+## Asynchronous Advantage Actor-Critic (A3C)
+
 ## LLM
